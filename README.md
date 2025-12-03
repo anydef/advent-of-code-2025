@@ -1,6 +1,8 @@
 # Advent of code 2025 
 
-Just trying to follow 2025 advent of code. In Rust.
+Just trying to follow [2025 advent of code](https://adventofcode.com/2025). In Rust.
+
+No [vibes](https://de.wikipedia.org/wiki/Vibe_Coding) zone here. 
 
 ## Problems solved
 
